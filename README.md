@@ -19,7 +19,7 @@ v2 api:
 
 - getCourier(tracking) -> Array: [courier] //due to the similarity some times there is a match for more then 1 courier
 - getCourierOne: (tracking,courier) -> String: courier //not safe
-- isValid: (tracking) -> Boolean: true/false //return true if match one or more couriers
+- isValid: (92748963438592543475924253) -> Boolean: true/false //return true if match one or more couriers
 - isCourier: (tracking,courier) -> Boolean: true/false
 - getTrackingUrl: (tracking,courier) -> String: url for tracking number.
 
